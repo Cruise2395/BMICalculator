@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BMICalculator</string>
+        <string name="app_name">BMICalculator</string>
+
+        <string name="label_height">Altura (cm)</string>
+        <string name="label_weight">Peso (kg)</string>
+
+        <string name="imc_underweight">Bajo Peso</string>
+        <string name="imc_normal">Normal</string>
+        <string name="imc_overweight">Sobrepeso</string>
+        <string name="imc_obesity1">Obesidad 1</string>
+        <string name="imc_obesity2">Obesidad 2</string>
+        <string name="imc_obesity3">Obesidad 3</string>
+
 </resources>

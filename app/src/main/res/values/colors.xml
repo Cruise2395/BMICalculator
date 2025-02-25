@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#716868</color>
+
+    <color name="imc_underweight">#00BCD4</color>
+    <color name="imc_normal">#8BC34A</color>
+    <color name="imc_overweight">#FFEB3B</color>
+    <color name="imc_obesity1">#FF9800</color>
+    <color name="imc_obesity2">#FF5722</color>
+    <color name="imc_obesity3">#F21805</color>
 </resources>
